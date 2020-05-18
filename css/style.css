@@ -55,14 +55,9 @@ p{
     -moz-transition:all 1s;
     -o-transition:all 1s;
 }
-.icon{
-    display: inline-block;
-    width: 1.5em;
-    height: 1.5em;
-    vertical-align: middle;
-    content: "";
-    background: no-repeat center center;
-    background-size: 100% 100%;
+.toggle-icon{
+    padding:1px;
+    font-size: 20px;
 }
 .navbar-toggler{
     background-color: grey;

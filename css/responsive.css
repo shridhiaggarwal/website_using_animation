@@ -9,10 +9,16 @@
     .about-iphone img {
         width: 100%;
     }
-    .purchase-now .col-md-3 {
+    .btn-purchase-now {
         
         text-align: center;
-        padding-top: 50px;
+        margin-top: 50px;
+    }
+    .item{
+        margin:10px;
+    }
+    .screen-slider{
+        margin: 10px 20px ;
     }
 }
 
